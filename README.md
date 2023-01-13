@@ -33,15 +33,15 @@
 
 > 白色主题
 
-![白色](/Volumes/TRY_T7/cat_cs/photo/theme1.png)
+![白色](./photo/theme1.png)
 
 > 暗黑主题
 
-![暗黑](/Volumes/TRY_T7/cat_cs/photo/theme2.png)
+![暗黑](./photo/theme2.png)
 
 > 版本不对错误提示
 
-![version_err](/Volumes/TRY_T7/cat_cs/photo/version_err.png)
+![version_err](./photo/version_err.png)
 
 ---
 
