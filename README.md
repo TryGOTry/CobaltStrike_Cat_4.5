@@ -50,7 +50,7 @@
 ```bash
 推荐使用ubuntu18运行
 sudo apt install openjdk-11-jre-headless
-sudo apt install openjdk-8-jdk
+sudo apt install openjdk-11-jdk
 ```
 
 > **需Java11运行，运行前请先配置CatServer.properties**
