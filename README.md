@@ -86,6 +86,9 @@ sudo apt install openjdk-11-jdk
 chmod 755 teamserver
 ./teamserver
 
+Windows下运行(改好配置文件后)
+java.exe -jar cat_server.jar server
+
 获取google二次验证配置:
 java -jar cat_server.jar google
 （Ps:将获取到的SecretKey填入服务端配置中,把data:image/jpeg;base64...这一串复制到浏览器中打开,用谷歌验证器扫描）
