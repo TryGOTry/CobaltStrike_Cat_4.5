@@ -12,7 +12,7 @@
 
 #### 客户端
 
-> **右边👉下载的自带java11环境,直接运行runcatcs.vbs即可(仅限windows)**
+> **右边👉下载的自带java11环境,直接运行runcatcs.vbs即可(仅限windows),其他系统执行:java -jar cat_client.jar client**
 
 ##### 配置文件说明(CatClient.properties)
 
