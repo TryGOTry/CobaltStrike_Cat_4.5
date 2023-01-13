@@ -33,15 +33,15 @@
 
 > 白色主题
 
-![白色](./photo/theme1.png)
+![白色](./theme1.png)
 
 > 暗黑主题
 
-![暗黑](./photo/theme2.png)
+![暗黑](./theme2.png)
 
 > 版本不对错误提示
 
-![version_err](./photo/version_err.png)
+![version_err](./version_err.png)
 
 ---
 
