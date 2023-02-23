@@ -133,3 +133,5 @@ java -jar cat_server.jar script [host] [port] [user] [password] [二次验证的
 ### 关于密码
 
 解压密码放在T00ls.com中.
+
+https://www.nctry.com/
