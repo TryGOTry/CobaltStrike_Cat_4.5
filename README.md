@@ -1,3 +1,6 @@
+# 2023-05-01 更新最终版，以后将不再更新.
+## 更新说明[更新说明](https://github.com/TryGOTry/CobaltStrike_Cat_4.5/blob/main/README_END.md)
+
 # CobaltStrike-[Cat]-4.5-兔年快乐
 
 > Ps:猫猫🐱Cs:基于CobaltStrike4.5二开完成 (原dogcs4.4二开功能基本都有)(自带破解,不需要使用csagent.)
