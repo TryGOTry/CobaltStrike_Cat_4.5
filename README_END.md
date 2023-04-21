@@ -24,14 +24,17 @@
 11. 新增经典上线语音提醒
 ## 截图
 **mac界面**
+
 ![img.png](img.png)
 
 **Windows界面**
 
 ![img_3.png](img_3.png)
+
 **dns上线**
 
 ![img_1.png](img_1.png)
+
 **进程列表杀软对比**
 
 ![img_2.png](img_2.png)
