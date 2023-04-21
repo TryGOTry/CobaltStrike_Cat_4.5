@@ -25,6 +25,7 @@
 ## 截图
 **mac界面**
 ![img.png](img.png)
+
 **Windows界面**
 ![img_3.png](img_3.png)
 **dns上线**
