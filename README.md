@@ -1,3 +1,7 @@
+# 2024-01-01 关于新版本猫猫Cs的说明
+(PS:说了不更新了,但是还是没忍住)
+新版本已修复大家提出的bug,详细看:https://www.nctry.com/2735.html
+但是还没写完,希望大家可以提出别的bug和一些小需求,我会尽量去写,谢谢.
 # 2023-05-01 更新最终版，以后将不再更新.
 ## 更新说明[更新说明](https://github.com/TryGOTry/CobaltStrike_Cat_4.5/blob/main/README_END.md)
 
