@@ -5,7 +5,7 @@
 
 ## 目前已经更新完了,该项目star到达1k就发！
 
-# 2023-05-01 更新最终版，以后将不再更新.
+# 2023-05-01 更新最终版
 ## 更新说明[更新说明](https://github.com/TryGOTry/CobaltStrike_Cat_4.5/blob/main/README_END.md)
 
 # CobaltStrike-[Cat]-4.5-兔年快乐
