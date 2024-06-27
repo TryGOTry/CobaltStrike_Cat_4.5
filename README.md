@@ -3,7 +3,7 @@
 
 新版本已修复大家提出的bug,详细看:https://www.nctry.com/2735.html
 
-## 目前已经更新完了,该项目star到达1k就发！
+## 目前已经更新完了,该项目star到达1k再说！
 
 # 2023-05-01 更新最终版
 ## 更新说明[更新说明](https://github.com/TryGOTry/CobaltStrike_Cat_4.5/blob/main/README_END.md)
